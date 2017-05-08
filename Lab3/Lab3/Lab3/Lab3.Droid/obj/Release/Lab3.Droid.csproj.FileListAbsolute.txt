@@ -1,0 +1,137 @@
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.apk
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid-Signed.apk
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.csprojResolveAssemblyReference.cache
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\android\bin\Lab3.Droid.apk
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable\icon.png
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-hdpi\icon.png
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-xhdpi\icon.png
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\layout\tabbar.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\layout\toolbar.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\res\values\styles.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\R.cs.flag
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\uploadflags.txt
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.apk
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid-Signed.apk
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Android.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Android.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Android.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\AdvancedTimer.Forms.Plugin.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.csprojResolveAssemblyReference.cache
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\bin\Lab3.Droid.apk
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable\icon.png
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\layout\tabbar.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\layout\toolbar.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\res\values\styles.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\R.cs.flag
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\uploadflags.txt
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Java.Interop.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Mono.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\mscorlib.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.Core.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.Net.Http.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.Xml.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\AdvancedTimer.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\AdvancedTimer.Forms.Plugin.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Lab3.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Lab3.Droid.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.Abstractions.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.Abstractions.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.Abstractions.xml
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Plugin.Vibrate.Abstractions.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Plugin.Vibrate.Abstractions.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\android\assets\Plugin.Vibrate.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\obj\Release\Lab3.Droid.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3.Droid\bin\Release\Lab3.Droid.dll.mdb

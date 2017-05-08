@@ -1,0 +1,16 @@
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Lab3.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Core.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Debug\Lab3.Page1.xaml.g.cs
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Debug\Lab3.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Debug\Lab3.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Debug\Lab3.dll.mdb

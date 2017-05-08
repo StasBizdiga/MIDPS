@@ -1,0 +1,11 @@
+﻿{
+  "supports": {},
+  "dependencies": {
+    "Mobilist.AdvancedTimer.Forms.Plugin": "1.0.1",
+    "Xam.Plugins.Vibrate": "2.0.0",
+    "Xamarin.Forms": "2.3.4.231"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile78": {}
+  }
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab3.Pomodoro">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="20, 20, 20, 20"
+                WinPhone="20, 20, 20, 20" />
+    </ContentPage.Padding>
+    <ContentPage.Content >
+        <StackLayout VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Orientation="Vertical"
+                 Spacing="15">
+            <Label Text="Pomodoro Tech" TextColor="White" BackgroundColor="#105c75" Font="30"/>
+            <Label Text="Welcome to Pomodoro Efficiency!" />
+            <Button x:Name="HelpButton" Text="Help" Clicked="HelpButton_OnClicked" />
+            <Button x:Name="ResetButton" Text="Reset All" Clicked="ResetButton_OnClicked" />
+            <Button x:Name="SkipButton" Text="Skip Current Phase" Clicked="SkipButton_OnClicked" />
+            <Label Text="A default pomodoro cycle is 4 rounds of: &#x0a;25 min work + 5 min rest each. &#x0a;(and also 30 min rest after each 4 rounds)" HorizontalTextAlignment="Center"/>
+            <Button x:Name="StartButton" Text="Start Effectiveness" Clicked="StartButton_OnClicked" />
+            <Label  x:Name="TimeLeft" HorizontalOptions="Center" Font="35" Text="25:00"/>
+            <Label x:Name="State" HorizontalOptions="Center" Text="State: - " />
+            <Label x:Name="TimerStates" HorizontalOptions="Center" Text="Timer State: Paused " />
+            <Label Text="&#x0a;Made by Stas Bizdiga FAF-151 &#x0a;2017 All rights reserved (c) " HorizontalTextAlignment="End" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

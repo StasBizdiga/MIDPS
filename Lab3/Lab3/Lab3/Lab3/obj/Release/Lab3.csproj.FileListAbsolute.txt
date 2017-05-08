@@ -1,0 +1,23 @@
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Lab3.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Lab3.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Core.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Platform.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Core.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Core.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Release\Lab3.Page1.xaml.g.cs
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Release\Lab3.dll
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Release\Lab3.pdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\obj\Release\Lab3.dll.mdb
+C:\Github\MIDPS\Lab3\Lab3\Lab3\Lab3\bin\Release\Lab3.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\bin\Release\Lab3.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\bin\Release\Lab3.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\obj\Release\Lab3.Pomodoro.xaml.g.cs
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\obj\Release\Lab3.dll
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\obj\Release\Lab3.pdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\obj\Release\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\obj\Release\Lab3.dll.mdb
+C:\Users\SoundSpace\Documents\Visual Studio 2015\Projects\Lab3\Lab3\Lab3\bin\Release\Lab3.dll.mdb
