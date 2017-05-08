@@ -26,12 +26,15 @@
 # Executables
 *.exe
 *.out
-*.app
+*.bat
 
 # Other
 *.depend
+
+# Django webdev
 *.pyc
 *~
+
 __pycache__
 myvenv
 db.sqlite3
