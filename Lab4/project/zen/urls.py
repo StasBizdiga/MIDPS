@@ -6,9 +6,9 @@ app_name = 'zen'
 
 urlpatterns = [
     # ex: /zen/
-    #url(r'^$', views.index, name='index'),
+    url(r'^$', views.index, name='index'),
     # ex: /zen/#num/   where #num is a number
-   # url(r'^(?P<post_id>[0-9]+)/$', views.detail, name='detail'),
+    url(r'^(\d+)/$', views.detail, name='detail'),
 ]
 
 

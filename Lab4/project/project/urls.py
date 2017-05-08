@@ -15,8 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
-
+from zen import views
 urlpatterns = [
+    url(r'^$', views.home, name='home'),
     url(r'^polls/', include('polls.urls')),
     url(r'^zen/', include('zen.urls')),
     url(r'^admin/', admin.site.urls),
